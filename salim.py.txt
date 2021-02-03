@@ -1,0 +1,11 @@
+
+x=13
+y=5
+print(y/x)
+print(y//x)
+print(x%y)
+print(x+y)
+print(x*y)
+x="first"
+y="last"
+print("first"+"last")

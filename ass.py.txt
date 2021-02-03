@@ -1,0 +1,5 @@
+x=30
+y=15
+print(x>y and y<x)
+print(x>y or y<x)
+x=15

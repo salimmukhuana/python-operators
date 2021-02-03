@@ -1,0 +1,14 @@
+print("hello wold")
+y=5
+print(x&y)
+print(x^y)
+print(x|y)
+a1 =4
+b1 =4x=7
+
+a2 ="python programming"
+b2 ="python programming"
+a3 =5
+b3 =5
+print(a1 is b1)
+print(a1 is a2)
